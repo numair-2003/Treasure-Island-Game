@@ -205,6 +205,9 @@ Make sure Python 3 is installed on your system.
 python treasure_island_game_project.py
 ```
 
+#### Method 2: Play Online
+You can run the Treasure Island game in your browser on Replit:
+[Play on Replit](https://replit.com/@numair1919/Treasure-Island-Game)
 ---
 
 ## 🔽 Clone This Repository
